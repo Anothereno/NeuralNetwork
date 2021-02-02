@@ -1,4 +1,4 @@
-package com.anothereno;
+package com.anothereno.neuralnetwork;
 
 public class Neuron {
     public Neuron(int nextLayerNeuronsAmount) {

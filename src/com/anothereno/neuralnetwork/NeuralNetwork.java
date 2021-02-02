@@ -1,7 +1,4 @@
-package com.anothereno;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.anothereno.neuralnetwork;
 
 public class NeuralNetwork {
     public NeuralNetwork(int ... neuronsAmount) {

@@ -1,4 +1,4 @@
-package com.anothereno;
+package com.anothereno.neuralnetwork;
 
 public class Layer {
     public Layer(int currentLayerSize, int nextLayerSize) {
